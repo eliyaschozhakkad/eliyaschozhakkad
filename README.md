@@ -1,9 +1,14 @@
+[![MasterHead](https://camo.githubusercontent.com/fbf24ea9d3eb1c62b1d9a7b93ea7c5608fd6d7bfc4f5d90a8d99adb2ea3429d4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://www.linkedin.com/in/eliyas-chozhakkad-b683a0259/)
+
 <h1 align="center">Hi 👋, I'm Eliyas Ch</h1>
 <h3 align="center">A passionate Data Scientist</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliyaschozhakkad&label=Profile%20views&color=0e75b6&style=flat" alt="eliyaschozhakkad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliyaschozhakkad" alt="eliyaschozhakkad" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 - 🔭 I’m currently working on **Data Science Projects**
 
@@ -16,6 +21,9 @@
 - 💬 Ask me about **Machine leanring,Deep learning,NLP and LLMs**
 
 - 📫 How to reach me **eliyaschozhakkad@gmail.com**
+
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
