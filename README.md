@@ -1,7 +1,8 @@
-[![MasterHead](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliyas-chozhakkad-b683a0259/)
+
 
 <h1 align="center">Hi 👋, I'm Eliyas Ch</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+
+<h3 align="center">A passionate Data Scientist      <a href="https://www.linkedin.com/in/eliyas-chozhakkad-b683a0259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliyaschozhakkad" /></a> </h3>
 
 *In the world of machine learning, each algorithm tells a story from the data. I am passionate about deciphering these narratives to drive meaningful insights and shape the future of technology...*
 
